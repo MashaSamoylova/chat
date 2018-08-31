@@ -1,0 +1,17 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "k8hCATgh5bXaZwDXk/Wm6air/ZQ=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "3198c7714d5f8be941dd06c30208e623aa5abf90",
+			"revisionTime": "2018-08-24T14:21:20Z"
+		},
+		{
+			"path": "https://github.com/mattn/go-sqlite3",
+			"revision": ""
+		}
+	],
+	"rootPath": "chat"
+}
